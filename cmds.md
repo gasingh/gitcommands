@@ -6,7 +6,7 @@
 | git init | *initialize* a new git repository| creates a new directory called __.git__ inside the folder in which it is initialized to watch. This directory is used to keep track of any changes we make to the project under revision control. So it will have information about any commits we make and any branches we make, and so on. | 
 | git config --global user.name | *identify* yourself: add name |
 | git config --global user.email |*identify* yourself: add email |
-| CREATE CODE IN FILES & DIRECTORY STRUCTURE OF THE REPO| | |
+| __CREATE CODE IN FILES & DIRECTORY STRUCTURE OF THE REPO__ | | |
 | add | |
 | commit | |
 | status | |
