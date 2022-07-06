@@ -1,4 +1,4 @@
-| COMMAND | USAGE | WHAT THE DEVELOPER DOES?! | 
+| COMMAND | USE | NOTES | 
 |-------- |-------- | -------- | 
 | check in | add this file to the git version control system | check the file in | 
 | stage | put it on the pedestal for git to investigate before adding it to the version control system! | 
