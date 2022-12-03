@@ -21,3 +21,9 @@ __3. MORE__
 |------------- |-------- | -------- | 
 | check in | add this file to the git version control system | check the file in | 
 | stage | put it on the pedestal for git to investigate before adding it to the version control system! | 
+
+
+References:
+1. The Git Course on LinkedIn Learning
+2. https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/Chapter6/git_github.html
+
