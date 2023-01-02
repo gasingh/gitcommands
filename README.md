@@ -1,5 +1,34 @@
 # Git Reference
 
+
+<details>
+  <summary><h2> COURSES </h2></summary>
+
+*This is a collection of some nice courses, youtube lectures and weblinks which i found useful to understand the concept and workings of Git.*
+  
+  (0). Two courses online
+  - [Version Control of a Python Project using Git (Coursera)](https://www.coursera.org/projects/version-control-of-a-python-project-using-git)
+  - [Git from Scratch (Linkedin Learning)](https://www.linkedin.com/learning/git-from-scratch/git-from-scratch?autoplay=true)
+
+  (1). This is by far the best intro ever. Period. A really nice introduction for the uninitiated!
+  - [Git Tutorial For Dummies by Nick White - YouTube](https://www.youtube.com/watch?v=mJ-qvsxPHpY)
+  
+  (2). A good short intro   
+  - [Python Version Control With Git and Github - #7 - YouTube](https://www.youtube.com/watch?v=yYknmU_gBgs&t=20s)
+  
+  (3). This is a video on the creator of Git and Linux   
+  - [The mind behind Linux | Linus Torvalds - YouTube](https://www.youtube.com/watch?v=o8NPllzkFhE&t=9s)
+  
+  (4). This is a good series!   
+  - [Git and GitHub for Poets by Daniel Schiffman - YouTube](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+
+  (5). This is way more advanced.
+  - [Git Crash Course - A Simple Workflow for Small Teams and Startups](https://www.zachgollwitzer.com/posts/git-course)
+  - [Git Crash Course for Beginners (part 1/3) - YouTube](https://www.youtube.com/watch?v=kmGsHjQ2wsY&t=176s) 
+ 
+</details>
+
+
 <details>
   <summary><h2> GIT COMMANDS </h2></summary>
 
