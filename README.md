@@ -37,9 +37,8 @@
     - Step 2. Open Git Bash in that particular folder that you want to push. Type git remote add origin PASTE_SSH_KEY_OF_CREATED_REPO. Then type git push origin master –force (type ‘main’ in place of the ‘master’ if your default branch is master)
     - Step 3. Now, refresh your Github page, you will be able to see your committed folders/files there.
 
----
 
-References:
+### References
 - [directory - How to push a new folder (containing other folders and files) to an existing git repo? - Stack Overflow](https://stackoverflow.com/questions/15612003/how-to-push-a-new-folder-containing-other-folders-and-files-to-an-existing-git)
 - [How to Push Folders From Local PC to GitHub using Git Commands? - GeeksforGeeks](https://www.geeksforgeeks.org/how-to-push-folders-from-local-pc-to-github-using-git-commands/)
 
