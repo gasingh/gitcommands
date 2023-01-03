@@ -58,7 +58,7 @@ I dreamt about this just before sleeping: Git it like a Cactus which grows. I go
   - [ ] [Git Flow vs. Trunk Based Development | Toptal](https://www.toptal.com/software/trunk-based-development-git-flow)
   - [ ] [Git Crash Course: A Simple Workflow for Small Teams and Startups | by Zach Gollwitzer | Medium](https://zach-gollwitzer.medium.com/git-crash-course-a-simple-workflow-for-small-teams-and-startups-c491919c9f77)
   - [ ] [Git Crash Course for Beginners (part 1/3) - YouTube](https://www.youtube.com/watch?app=desktop&v=kmGsHjQ2wsY&feature=youtu.be)
-  - [ ] [oer.gitlab.io/](about:blank)
+  - [ ] [Open Educational Resources on GitLab](https://oer.gitlab.io/) _
   - [ ] [Git Tutorial - javatpoint](https://www.javatpoint.com/git)
 
 #### STREAM 3
