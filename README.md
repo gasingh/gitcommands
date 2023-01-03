@@ -4,7 +4,7 @@
 <details>
   <summary><h2> COURSES </h2></summary>
 
-*This is a collection of some nice courses, youtube lectures and weblinks which i found useful to understand the concept and workings of Git.*
+_This is a collection of some nice courses, youtube lectures and weblinks which i found useful to understand the concept and workings of Git._
   
   (0). Two courses online
   - [Version Control of a Python Project using Git (Coursera)](https://www.coursera.org/projects/version-control-of-a-python-project-using-git)
