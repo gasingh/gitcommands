@@ -51,33 +51,33 @@ I dreamt about this just before sleeping: Git it like a Cactus which grows. I go
   
   [git is like a cactus - Google Search](https://www.google.com/search?q=git+is+like+a+cactus&oq=git+is+like+a+cactus&aqs=chrome..69i57.939j0j7&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8)
   #### STREAM  1
-    - [ ] [Cactus Model | The Git Workflows Warehouse](https://gitworkflows.cs.manchester.ac.uk/workflow-catalogue/cactus-flow/)
-    - [ ] [Hustle/git-cactus: 🌵 Git tool for Cactus Branching Model 🌵](https://github.com/Hustle/git-cactus)
+  - [ ] [Cactus Model | The Git Workflows Warehouse](https://gitworkflows.cs.manchester.ac.uk/workflow-catalogue/cactus-flow/)
+  - [ ] [Hustle/git-cactus: 🌵 Git tool for Cactus Branching Model 🌵](https://github.com/Hustle/git-cactus)
   #### STREAM 2
-    - [ ] [Git Flow vs. Trunk Based Development | Toptal](https://www.toptal.com/software/trunk-based-development-git-flow)
-    - [ ] [Git Crash Course: A Simple Workflow for Small Teams and Startups | by Zach Gollwitzer | Medium](https://zach-gollwitzer.medium.com/git-crash-course-a-simple-workflow-for-small-teams-and-startups-c491919c9f77)
-    - [ ] [Git Crash Course for Beginners (part 1/3) - YouTube](https://www.youtube.com/watch?app=desktop&v=kmGsHjQ2wsY&feature=youtu.be)
-    - [ ] [Open Educational Resources on GitLab](https://oer.gitlab.io/) _
-    - [ ] [Git Tutorial - javatpoint](https://www.javatpoint.com/git)
+  - [ ] [Git Flow vs. Trunk Based Development | Toptal](https://www.toptal.com/software/trunk-based-development-git-flow)
+  - [ ] [Git Crash Course: A Simple Workflow for Small Teams and Startups | by Zach Gollwitzer | Medium](https://zach-gollwitzer.medium.com/git-crash-course-a-simple-workflow-for-small-teams-and-startups-c491919c9f77)
+  - [ ] [Git Crash Course for Beginners (part 1/3) - YouTube](https://www.youtube.com/watch?app=desktop&v=kmGsHjQ2wsY&feature=youtu.be)
+  - [ ] [Open Educational Resources on GitLab](https://oer.gitlab.io/) _
+  - [ ] [Git Tutorial - javatpoint](https://www.javatpoint.com/git)
 
   #### STREAM 3
-    - [What is Git Flow | How to use Git Flow | Learn Git](https://www.gitkraken.com/learn/git/git-flow)
-    - [gitkraken.com/wp-content/uploads/2021/03/git-flow-4.svg](https://www.gitkraken.com/wp-content/uploads/2021/03/git-flow-4.svg)
-    - [A successful Git branching model » nvie.com](https://nvie.com/posts/a-successful-git-branching-model/)
-    - [What is the best Git branch strategy? | Git Best Practices](https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy)
-    - [GitHub flow - GitHub Docs](https://docs.github.com/en/get-started/quickstart/github-flow)
+  - [What is Git Flow | How to use Git Flow | Learn Git](https://www.gitkraken.com/learn/git/git-flow)
+  - [gitkraken.com/wp-content/uploads/2021/03/git-flow-4.svg](https://www.gitkraken.com/wp-content/uploads/2021/03/git-flow-4.svg)
+  - [A successful Git branching model » nvie.com](https://nvie.com/posts/a-successful-git-branching-model/)
+  - [What is the best Git branch strategy? | Git Best Practices](https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy)
+  - [GitHub flow - GitHub Docs](https://docs.github.com/en/get-started/quickstart/github-flow)
 
   #### STREAM 4
-    - [make a new repository by git by bash - Google Search](https://www.google.com/search?q=make+a+new+repository+by+git+by+bash&oq=make+a+new+repository+by+git+by+bash&aqs=chrome..69i57.850j0j7&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8)
-    - [How to create a new repo at Github using git bash? - Stack Overflow](https://stackoverflow.com/questions/11693288/how-to-create-a-new-repo-at-github-using-git-bash)
-    - [git - Add a new Project to GitHub via Bash command? - Stack Overflow](https://stackoverflow.com/questions/27456773/add-a-new-project-to-github-via-bash-command/27456812#27456812)
-    - [git - Is it possible to create a remote repo on GitHub from the CLI without opening browser? - Stack Overflow](https://stackoverflow.com/questions/2423777/is-it-possible-to-create-a-remote-repo-on-github-from-the-cli-without-opening-br)
-    - [curl/curl: A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, etc.](https://github.com/curl/curl)
-    - [curl](https://curl.se/)
-    - [Install curl - Everything curl](https://everything.curl.dev/get)
+  - [make a new repository by git by bash - Google Search](https://www.google.com/search?q=make+a+new+repository+by+git+by+bash&oq=make+a+new+repository+by+git+by+bash&aqs=chrome..69i57.850j0j7&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8)
+  - [How to create a new repo at Github using git bash? - Stack Overflow](https://stackoverflow.com/questions/11693288/how-to-create-a-new-repo-at-github-using-git-bash)
+  - [git - Add a new Project to GitHub via Bash command? - Stack Overflow](https://stackoverflow.com/questions/27456773/add-a-new-project-to-github-via-bash-command/27456812#27456812)
+  - [git - Is it possible to create a remote repo on GitHub from the CLI without opening browser? - Stack Overflow](https://stackoverflow.com/questions/2423777/is-it-possible-to-create-a-remote-repo-on-github-from-the-cli-without-opening-br)
+  - [curl/curl: A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, etc.](https://github.com/curl/curl)
+  - [curl](https://curl.se/)
+  - [Install curl - Everything curl](https://everything.curl.dev/get)
 
   #### STREAM 5
-    - [Git and GitHub – Water Programming: A Collaborative Research Blog](https://waterprogramming.wordpress.com/category/programming/git-and-github/)
+  - [Git and GitHub – Water Programming: A Collaborative Research Blog](https://waterprogramming.wordpress.com/category/programming/git-and-github/)
 
   </details>
   
@@ -95,9 +95,10 @@ I dreamt about this just before sleeping: Git it like a Cactus which grows. I go
   </details>
 
   <details><summary> <h3> Further Research -3 </h3> </summary>
-    Github and other version control systems are used to actually improve the work being done and also allow for many people to build smaller pieces of functionalities and then send them back to the main piece of the bigger software as a whole. Different companies have differernt terminologies to do this!
+
+  Github and other version control systems are used to actually improve the work being done and also allow for many people to build smaller pieces of functionalities and then send them back to the main piece of the bigger software as a whole. Different companies have differernt terminologies to do this!
     
-    ![screenshot 1663586193 - Copy](https://user-images.githubusercontent.com/6398561/210327511-9d132bc9-0577-4006-a313-3774a5e17668.jpg)
+  ![screenshot 1663586193 - Copy](https://user-images.githubusercontent.com/6398561/210327511-9d132bc9-0577-4006-a313-3774a5e17668.jpg)
 
   [Here’s Why You’re Doing Code Review WRONG - Essential Software Engineer Skills - YouTube](https://www.youtube.com/watch?v=rTvq8vS42zk)
   
