@@ -94,6 +94,17 @@ I dreamt about this just before sleeping: Git it like a Cactus which grows. I go
 
   </details>
 
+  <details><summary> <h3> Further Research -3 </h3> </summary>
+    Github and other version control systems are used to actually improve the work being done and also allow for many people to build smaller pieces of functionalities and then send them back to the main piece of the bigger software as a whole. Different companies have differernt terminologies to do this!
+    
+    ![screenshot 1663586193 - Copy](https://user-images.githubusercontent.com/6398561/210327511-9d132bc9-0577-4006-a313-3774a5e17668.jpg)
+
+  [Here’s Why You’re Doing Code Review WRONG - Essential Software Engineer Skills - YouTube](https://www.youtube.com/watch?v=rTvq8vS42zk)
+  
+    
+    
+  </details>
+  
 </details>
 
 <details>
