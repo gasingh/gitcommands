@@ -80,6 +80,18 @@ I dreamt about this just before sleeping: Git it like a Cactus which grows. I go
 #### STREAM 5
   - [Git and GitHub – Water Programming: A Collaborative Research Blog](https://waterprogramming.wordpress.com/category/programming/git-and-github/)
 
+### Further Research -2 
+
+Where is GIT located and what does it do internally?
+
+#### Git On Your Computer
+![screenshot 1663586197](https://user-images.githubusercontent.com/6398561/210326047-c7373563-ff1f-4433-b8b3-5e158aa9c62e.jpg)
+![screenshot 1663586195](https://user-images.githubusercontent.com/6398561/210326049-c5adec77-9127-4165-a8d8-4f9f51213a2e.jpg)
+
+#### Git-Internals
+I have often contemplated how to fix this if the system fails?! So i looked up and found something know as Git Internals.
+
+
 </details>
 
 <details>
