@@ -44,10 +44,10 @@ _This is a collection of some nice courses, youtube lectures and weblinks which 
 
 <details>
   <summary><h2> CONCEPT NOTES </h2></summary>
-
-I dreamt about this just before sleeping: Git it like a Cactus which grows. I googled it and there came some astonishing and interesting findings.
   
 <details><summary> <h3> Further Research </h3> </summary>
+  
+  _I dreamt about this just before sleeping: Git it like a Cactus which grows. I googled it and there came some astonishing and interesting findings._
   
   [git is like a cactus - Google Search](https://www.google.com/search?q=git+is+like+a+cactus&oq=git+is+like+a+cactus&aqs=chrome..69i57.939j0j7&client=ms-android-huawei-rev1&sourceid=chrome-mobile&ie=UTF-8)
   #### STREAM  1
