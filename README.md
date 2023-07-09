@@ -25,7 +25,10 @@ _This is a collection of some nice courses, youtube lectures and weblinks which 
   (5). This is way more advanced.
   - [Git Crash Course - A Simple Workflow for Small Teams and Startups](https://www.zachgollwitzer.com/posts/git-course)
   - [Git Crash Course for Beginners (part 1/3) - YouTube](https://www.youtube.com/watch?v=kmGsHjQ2wsY&t=176s) 
- 
+  
+  (6). A simple glossary by Atlassian
+  - [Git commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
+
 </details>
 
 
